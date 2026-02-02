@@ -1,4 +1,4 @@
-# 515 Final Project: SleePose
+# Final Project: SleePose
 
 ## Overview
 
@@ -34,4 +34,4 @@ Connect the components as follows. **Ensure the XIAO is disconnected from USB wh
     * *The other leg of the resistor connects to GND.*
 4.  **Sensor Placement:** Place the Piezoresistive Sensor element so that it physically **bridges across** the parallel Conductive Threads 'A' and 'B'. When pressure is applied, the sensor should make electrical contact between Thread A and Thread B.
 
-**Simplified Diagram:**
+Link to the PDF showcasing Final Project: [SleepPose PDF](annotated-SleePose.pdf)
